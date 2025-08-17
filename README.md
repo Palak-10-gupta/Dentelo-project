@@ -1,8 +1,12 @@
-# Dentelo-project
+#  🦷 Dentelo-project
 ## 📌 Project Description – Dentelo: Dental Service Website  
 
 Dentelo is a **modern, responsive, and user-friendly dental service website** built using **HTML, CSS, and JavaScript**.  
 The project is designed to simulate a professional dental clinic's online presence, providing visitors with essential information about services, doctors, blogs, and booking options.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86071ee3-20d4-46f5-9d88-bb89eae76ac4" alt="homepage" width="1280" height="653" />
+</p>
 
 ---
 
@@ -59,4 +63,28 @@ The project is designed to simulate a professional dental clinic's online presen
 This project demonstrates **frontend web development skills** by building a real-world styled website.  
 It can serve as:  
 - A **portfolio project** for showcasing HTML, CSS, and JS expertise.  
-- A **base template** for businesses like dental clinics, hospitals, or medical services.  
+- A **base template** for businesses like dental clinics, hospitals, or medical services.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img width="1280" height="709" alt="AboutUs" src="https://github.com/user-attachments/assets/ae1fcfaa-fa9b-4bba-a867-495760096141" />
+  <br><br>
+  <img width="1280" height="759" alt="services" src="https://github.com/user-attachments/assets/84709cfe-f8f4-4f97-8837-e6d2a3986847" />
+  <br><br>
+  <img width="1280" height="641" alt="blogs" src="https://github.com/user-attachments/assets/4f818877-fb35-46b6-acee-388b486c0d35" />
+  <br><br>
+  <img width="1280" height="718" alt="img" src="https://github.com/user-attachments/assets/16fb694f-1943-40da-86d8-03e69b1b92a2" />
+</p>
+
+---
+
+## 👨‍💻 Author
+**Palak Gupta**  
+💼 GitHub: [@Palak-10-gupta](https://github.com/Palak-10-gupta)
+
+---
+
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! ⭐
